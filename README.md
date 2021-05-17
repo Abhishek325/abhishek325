@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     - `MySQL`, `SQL server`
     - 🌱 *Next up*: `Neo4j`
   <br>
-- 📫 **Reach me on**: <a href="https://www.linkedin.com/in/abhishek-ks/">LinkedIn</a> | <a href="hackerrank.com/AbhisheKkSingh">HackerRank</a>, <a href="https://leetcode.com/abhishek-ks/">Leetcode</a>, <a href="https://stackoverflow.com/users/4958453/abhishek">StackOverflow</a>
+- 📫 **Reach me on**: <a href="https://www.linkedin.com/in/abhishek-ks/">LinkedIn</a> | <a href="https://hackerrank.com/AbhisheKkSingh">HackerRank</a>, <a href="https://leetcode.com/abhishek-ks/">Leetcode</a>, <a href="https://stackoverflow.com/users/4958453/abhishek">StackOverflow</a>
 - 🔭 **Hobbies**: Reading books, playing guitar, `git push`
 
 ### My Stats ✨
