@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - 🔭 **Hobbies**: Reading books, playing guitar, `git push`
 
 ### My Stats ✨
-<a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=abhishek325&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek325&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
+<a><img height="175px" src="https://github-readme-stats.vercel.app/api?username=abhishek325&show_icons=true&theme=react" />&nbsp; <img height="175px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek325&count_private=true&show_icons=true&theme=react&layout=compact&langs_count=8" /></a>
 
 <br>
 
