@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 - 📫 **Reach me on**: <a href="https://www.linkedin.com/in/abhishek-ks/">LinkedIn</a> | <a href="hackerrank.com/AbhisheKkSingh">HackerRank</a>, <a href="https://leetcode.com/abhishek-ks/">Leetcode</a>, <a href="https://stackoverflow.com/users/4958453/abhishek">StackOverflow</a>
 - 🔭 **Hobbies**: Reading books, playing guitar, `git push`
 
-### My Github Stats ✨
+### My Stats ✨
 <a><img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=abhishek325&show_icons=true&theme=react" />&nbsp; <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishek325&count_private=true&show_icons=true&theme=react&layout=compact" /></a>
 
 <br>
