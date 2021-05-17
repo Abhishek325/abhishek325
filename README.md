@@ -18,17 +18,17 @@ Here are some ideas to get you started:
 - ✨ **Total year of experience**: 5
 - ✨ **Skills and competencies**:
   - Front end:
-    - `Javascript ES6`, `jQuery`, `Vue.js`, `Angular 2+`,`TypeScript`
-    - Styling: `CSS`, `SASS`, `Bootstrap 3+`, `MaterializeCSS`
-    - Templating: `HTML`, `Pug`, `Razor`
-    - Mobile: `Ionic`
-    - 🌱 *Next up*: `React`
+    - Javascript ES6, jQuery, Vue.js, Angular 2+,TypeScript
+    - Styling: CSS, SASS, Bootstrap 3+, Materializecss
+    - Templating: HTML, Pug, Razor
+    - Mobile: Ionic
+    - 🌱 *Next up*: React
   - Back end: 
-    - `C#`, `ASP.NET`, `PHP`, `Node.js`
-    - 🌱*Next up*: `GoLang`
+    - C#, ASP.NET, PHP, Node.js
+    - 🌱*Next up*: GoLang
   - Persistence:
-    - `MySQL`, `SQL server`
-    - 🌱 *Next up*: `Neo4j`
+    - MySQL, SQL server
+    - 🌱 *Next up*: Neo4j
   <br>
 - 📫 **Reach me on**: <a href="https://www.linkedin.com/in/abhishek-ks/">LinkedIn</a> | <a href="https://hackerrank.com/AbhisheKkSingh">HackerRank</a>, <a href="https://leetcode.com/abhishek-ks/">Leetcode</a>, <a href="https://stackoverflow.com/users/4958453/abhishek">StackOverflow</a>
 - 🔭 **Hobbies**: Reading books, playing guitar, `git push`
