@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 ### Hi there 👋
 - My name is **Abhishek Kumar Singh**
 - ✨ I'm a **full stack developer**, working at <a href="http://jfrog.com/">JFrog</a>.
-- ✨ **Total year of experience**: 5
+- ✨ **Total year of experience**: 6
 - ✨ **Skills and competencies**:
   - Front end:
-    - Javascript ES6, jQuery, Vue.js, Angular 2+,TypeScript
+    - Javascript ES6, jQuery, Vue.js, Angular 2+, React, TypeScript
     - Styling: CSS, SASS, Bootstrap 3+, Materializecss
     - Templating: HTML, Pug, Razor
     - Mobile: Ionic
-    - 🌱 *Next up*: React
   - Back end: 
     - C#, ASP.NET, PHP, Node.js
     - 🌱*Next up*: GoLang
@@ -41,8 +40,3 @@ Here are some ideas to get you started:
 <hr>
 
 <!--* ⚡ Fun fact: I love Coding, Space, Religion, and History, and think about them all at the same time-->
-
-<!--
-**Aniruddh-482/Aniruddh-482** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
--->
