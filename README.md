@@ -14,8 +14,8 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 - My name is **Abhishek Kumar Singh**
-- ✨ I'm a **full stack developer**, working at <a href="http://jfrog.com/">JFrog</a>.
-- ✨ **Total year of experience**: 6
+- ✨ I'm a **full stack developer**, working at <a href="https://www.uipath.com/">UiPath</a>.
+- ✨ **Totals year of experience**: ~8
 - ✨ **Skills and competencies**:
   - Front end:
     - Javascript ES6, jQuery, Vue.js, Angular 2+, React, TypeScript
@@ -26,7 +26,7 @@ Here are some ideas to get you started:
     - C#, ASP.NET, PHP, Node.js
     - 🌱*Next up*: GoLang
   - Persistence:
-    - MySQL, SQL server
+    - MySQL, SQL server, Mongo
     - 🌱 *Next up*: Neo4j
   <br>
 - 📫 **Reach me on**: <a href="https://www.linkedin.com/in/abhishek-ks/">LinkedIn</a> | <a href="https://hackerrank.com/AbhisheKkSingh">HackerRank</a>, <a href="https://leetcode.com/abhishek-ks/">Leetcode</a>, <a href="https://stackoverflow.com/users/4958453/abhishek">StackOverflow</a>
